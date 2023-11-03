@@ -1,6 +1,6 @@
 {
   "name": "bahnanana",
-  "version": "5.0.1",
+  "version": "5.0.0",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
